@@ -1,0 +1,5 @@
+﻿  ACO.cpp
+C:\Users\Ian Chang\source\repos\ACO\ACO\ACO.cpp(95,39): warning C4834: 正在捨棄具有 'nodiscard' 屬性之函式的傳回值
+C:\Users\Ian Chang\source\repos\ACO\ACO\ACO.cpp(168,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\Ian Chang\source\repos\ACO\ACO\ACO.cpp(215,19): warning C4018: '<': signed/unsigned 不相符
+  ACO.vcxproj -> C:\Users\Ian Chang\source\repos\ACO\Debug\ACO.exe
